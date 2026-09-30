@@ -1,1 +1,3 @@
-# copperhusky6475.github.io
+LoreBook compatibility service
+
+(Test site at this time)
