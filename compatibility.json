@@ -1,6 +1,11 @@
 {
-  "approvedCardVersions": [
-    "2.3"    
-  ],
-  "minimumAppVersion": "26.9.30"
+  "entries": [
+    {
+      "minimumAppVersion": "0.0.0.0",      
+      "cardVersions": [
+        "2.3"
+      ]
+    }
+   
+  ]
 }
