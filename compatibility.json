@@ -1,5 +1,5 @@
 {
-  "entries": [
+  "compatibility": [
     {
       "minimumAppVersion": "0.0.0.0",      
       "cardVersions": [
